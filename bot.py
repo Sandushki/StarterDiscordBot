@@ -69,4 +69,4 @@ async def on_message(message):
 # Botu çalıştırmak --> .run() fonksiyonu botu çalıştırmamızı sağlar.
 # API --> token
 # Yazarken bunun veri türünü string olarak kullanmamız gerekir.
-client.run('MTIzNjcwNzQ3MjI3NDc1NTYxNA.G1j1dO.qmGgehxJUkiHt62Sq6QolWcUvJon8I85U9-yfE')
+client.run(' ')# I will never reveal the secret token to public.
