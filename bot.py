@@ -75,4 +75,4 @@ async def on_message(message):
 # Botu çalıştırmak --> .run() fonksiyonu botu çalıştırmamızı sağlar.
 # API --> token
 # Yazarken bunun veri türünü string olarak kullanmamız gerekir.
-client.run('')
+client.run('') # Why would I tell the token?
